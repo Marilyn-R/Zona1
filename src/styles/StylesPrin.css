@@ -1,0 +1,16 @@
+.imgp{
+    align-items: center;
+    align-content: center;
+        width: 100%;
+      
+        display: flex;
+        margin: auto;
+        top:90px;
+        text-align: center;
+        justify-content: center;
+
+
+}
+.body{
+    background-color: blue;
+}
